@@ -1,0 +1,13 @@
+nav.navbar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    height: 87px;
+    padding-left: 40px;
+}
+
+.navbar-brand {
+}
+
+.navbar-nav {
+    float: right;
+}
