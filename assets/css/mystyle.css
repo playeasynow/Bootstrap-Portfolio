@@ -95,6 +95,104 @@ p {
     font-size: 16px;
 }
 
+/* PORTFOLIO-SPECIFIC CONTENT */
+#redFlower {
+    position: relative;
+    margin-top: -20px;
+    margin-left: 40px;
+    height: 200px;
+    width: 200px;
+    background-image: url("../images/P1PlaceholderBromeliad.jpg");
+}
+
+#redDescription {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 15px;
+    color: #ffffff;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    background: #91d4d1;
+}
+
+#blueFlower {
+    position: relative;
+    margin-top: -20px;
+    margin-left: 40px;
+    height: 200px;
+    width: 200px;
+    background-image: url("../images/P2PlaceholderBluebonnet.jpeg");
+}
+
+#blueDescription {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 15px;
+    color: #ffffff;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    background: #91d4d1;
+}
+
+#orangeFlower {
+    position: relative;
+    margin-left: 40px;
+    height: 200px;
+    width: 200px;
+    background-image: url("../images/P3PlaceholderOrange.jpg");
+}
+
+#orangeDescription {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 15px;
+    color: #ffffff;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    background: #91d4d1;
+}
+
+#purpleFlower {
+    position: relative;
+    margin-left: 40px;
+    height: 200px;
+    width: 200px;
+    background-image: url("../images/P4PlaceholderPurple.jpg");
+}
+
+#purpleDescription {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 15px;
+    color: #ffffff;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    background: #91d4d1;
+}
+
+#pinkFlower {
+    position: relative;
+    margin-left: 40px;
+    height: 200px;
+    width: 200px;
+    background-image: url("../images/P5PlaceholderPink.jpg");
+}
+
+#pinkDescription {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 15px;
+    color: #ffffff;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    background: #91d4d1;
+}
+
 @keyframes animatedBackground {
     from { background-position: 0 0; }
     to { background-position: 200px 0; }
