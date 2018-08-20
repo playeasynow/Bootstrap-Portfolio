@@ -5,15 +5,32 @@ body {
     height: auto;
 }
 
+.navigationBar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    height: 95px;
+}
+
+h1 {
+    color: #ffffff;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+}
+
+.myNameBox {
+    background-color: #91d4d1;
+    height: 94px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 22px;
+    font-family: Helvetica, Times, "Times New Roman", serif;
+}
+
 .width {
     width: 960px;
     padding-left: 0px;
     padding-right: 0px;
-}
-
-.center-items {
-    margin-right: auto;
-    margin-left: auto;
 }
 
 .height {
@@ -22,19 +39,6 @@ body {
 
 .float-right {
     float: right;
-}
-
-#myName {
-    color: #ffffff;
-    font-size: 36px;
-    font-family: Georgia, Times, "Times New Roman", serif;
-    font-weight: bold;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
-    background-color: #91d4d1;
-    border-bottom: 1px solid #cccccc;
 }
 
 li {
