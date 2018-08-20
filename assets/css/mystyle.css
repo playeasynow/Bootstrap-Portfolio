@@ -7,6 +7,8 @@ body {
 
 .width {
     width: 960px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 .center-items {
@@ -35,11 +37,6 @@ body {
     border-bottom: 1px solid #cccccc;
 }
 
-nav {
-    border-bottom: 1px solid #cccccc;
-    background-color: #ffffff;
-}
-
 li {
     border-right: 1px solid #cac9c9;
 }
@@ -60,4 +57,9 @@ li a {
     padding-top: 0px;
     padding-bottom: 0px;
     line-height: 14px;
+}
+
+.white-background {
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
 }
